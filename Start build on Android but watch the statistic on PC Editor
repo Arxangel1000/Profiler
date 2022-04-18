@@ -1,0 +1,6 @@
+To run the build on the phone and collect statistics on the computer in the editor:
+You need to go to Build Settings and select Android device, as well as tick Development build and Autoconnect Proffiler.
+Go to the console and select our device instead of Editor
+You will most likely need to restart Unity.
+Connect phone via USB cable
+And click Build and Run
